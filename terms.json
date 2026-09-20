@@ -1,0 +1,547 @@
+[
+  {
+    "id": "air-sweeper",
+    "isFixture": false,
+    "term": "Air Sweeper",
+    "definition": "A defense that pushes air troops back in the direction it faces. It deals no damage, so its facing decides which side of the base is slow for air attacks.",
+    "example": "Both sweepers face the Town Hall side, so the Lava Hounds go in from the back."
+  },
+  {
+    "id": "anti-2-star",
+    "isFixture": false,
+    "term": "Anti-2 Star",
+    "definition": "A layout built to deny the second star, usually by keeping the Town Hall deep and hard to reach so attacks stop at one star.",
+    "example": "An anti-2 star base is a strong pick for Clan War Leagues where every star counts."
+  },
+  {
+    "id": "anti-3-star",
+    "isFixture": false,
+    "term": "Anti-3 Star",
+    "definition": "A layout built to prevent a full three-star attack, often giving up the Town Hall while spreading defenses to slow the army down.",
+    "example": "Most war bases at the top are anti-3 star; the two-star is accepted."
+  },
+  {
+    "id": "army-link",
+    "isFixture": false,
+    "term": "Army Link",
+    "definition": "The share URL the game produces for a troop, spell and siege machine composition. Opening it fills the army slots without typing anything.",
+    "example": "Tap the army link on a strategy page to load the army in the game."
+  },
+  {
+    "id": "base-link",
+    "isFixture": false,
+    "term": "Base Link",
+    "definition": "The share URL the game produces for a layout. Opening it copies the layout into a free base slot on an account at that Town Hall or one level higher.",
+    "example": "A base link for Town Hall 14 opens on a Town Hall 14 or 15 account."
+  },
+  {
+    "id": "bat-spell",
+    "isFixture": false,
+    "term": "Bat Spell",
+    "definition": "A Dark spell that spawns bats over time. Bats target defenses and are countered by splash damage, so attackers drop them after key splash defenses fall.",
+    "example": "Freeze the Wizard Towers before the bat spells land."
+  },
+  {
+    "id": "battle-drill",
+    "isFixture": false,
+    "term": "Battle Drill",
+    "definition": "A siege machine that tunnels under walls to a target, surfacing to deliver the clan castle troops close to the core."
+  },
+  {
+    "id": "battle-machine",
+    "isFixture": false,
+    "term": "Battle Machine",
+    "definition": "The first Builder Base hero, repaired at Builder Hall 5. A melee unit with a hammer that gains an ability at level 5."
+  },
+  {
+    "id": "blacksmith",
+    "isFixture": false,
+    "term": "Blacksmith",
+    "definition": "The building, unlocked at Town Hall 8, where hero equipment is unlocked and upgraded with ores. Upgrades finish instantly.",
+    "example": "Spend ores at the Blacksmith on the equipment you actually attack with."
+  },
+  {
+    "id": "blimp",
+    "isFixture": false,
+    "term": "Blimp",
+    "definition": "The Battle Blimp, a flying siege machine that carries clan castle troops over walls and drops them where it is destroyed or where its target stands.",
+    "example": "The blimp carried Super Archers straight to the Town Hall."
+  },
+  {
+    "id": "builder-base",
+    "isFixture": false,
+    "term": "Builder Base",
+    "definition": "The second village, reached by boat, with its own buildings, troops and battles. Progress there is separate from the home village."
+  },
+  {
+    "id": "builder-hall",
+    "isFixture": false,
+    "term": "Builder Hall",
+    "definition": "The central building of the Builder Base. At level 6 a second stage opens with O.T.T.O's Outpost as its centre.",
+    "example": "Upgrading the Builder Hall unlocks the second stage of the base."
+  },
+  {
+    "id": "cc",
+    "isFixture": false,
+    "term": "CC",
+    "definition": "Short for Clan Castle. It holds donated troops, spells and a siege machine, on offense and on defense.",
+    "example": "Lure the CC before the main army walks in."
+  },
+  {
+    "id": "clan-war",
+    "isFixture": false,
+    "term": "Clan War",
+    "definition": "A clan-versus-clan battle with a preparation day and a war day. Each member attacks a base on the other side and the clan with more stars wins."
+  },
+  {
+    "id": "clean-up",
+    "isFixture": false,
+    "term": "Clean-up",
+    "definition": "Troops held back to finish the outside buildings after the main army has gone through, so the attack still reaches the percentage it needs.",
+    "example": "Save a few Archers and a Hog Rider for clean-up on the far corner."
+  },
+  {
+    "id": "clock-tower",
+    "isFixture": false,
+    "term": "Clock Tower",
+    "definition": "A Builder Base building that speeds up time in that village while active. It has no defensive role."
+  },
+  {
+    "id": "clone",
+    "isFixture": false,
+    "term": "Clone",
+    "definition": "A spell that creates temporary copies of troops inside its radius, up to a housing limit. The copies vanish when the spell runs out.",
+    "example": "Drop the clone on the Electro Dragons after they pass the first ring."
+  },
+  {
+    "id": "collector-raid",
+    "isFixture": false,
+    "term": "Collector Raid",
+    "definition": "A cheap attack aimed only at the mines, collectors and drills on the outside of a base, skipping the storages."
+  },
+  {
+    "id": "compartment",
+    "isFixture": false,
+    "term": "Compartment",
+    "definition": "One enclosed section of a base surrounded by walls. More compartments mean more wall breaks before troops reach the core.",
+    "example": "The Town Hall sits in a small compartment with no direct path in."
+  },
+  {
+    "id": "core",
+    "isFixture": false,
+    "term": "Core",
+    "definition": "The central section of a base where the Town Hall or the most important defenses sit. Most attack plans aim to get there.",
+    "example": "The Warden's aura should cover the army as it enters the core."
+  },
+  {
+    "id": "cwl",
+    "isFixture": false,
+    "term": "CWL",
+    "definition": "Clan War Leagues. Groups of eight clans fight seven wars over eight days, one war against each rival, and each member gets one attack per war.",
+    "example": "In CWL a missed attack cannot be made up, so plan the hit before the timer runs down."
+  },
+  {
+    "id": "dark-elixir",
+    "isFixture": false,
+    "term": "Dark Elixir",
+    "definition": "The third resource, used for heroes, Dark troops and Dark spells. It is scarce, so bases keep it near the core."
+  },
+  {
+    "id": "dead-base",
+    "isFixture": false,
+    "term": "Dead Base",
+    "definition": "A base whose owner has not logged in for a while, so its collectors are full and easy loot for a collector raid.",
+    "example": "Dead bases show full collectors and an overgrown look."
+  },
+  {
+    "id": "deployment",
+    "isFixture": false,
+    "term": "Deployment",
+    "definition": "Placing troops, heroes, spells or a siege machine on the battlefield. The order and spot of each deployment decide how the attack unfolds."
+  },
+  {
+    "id": "dip",
+    "isFixture": false,
+    "term": "Dip",
+    "definition": "Dropping trophies on purpose to sit in a lower league, where bases are easier and loot is plentiful, at the cost of smaller league rewards."
+  },
+  {
+    "id": "eagle-artillery",
+    "isFixture": false,
+    "term": "Eagle Artillery",
+    "definition": "A long-range defense that only activates once a set amount of troop housing has been deployed. It fires at the largest cluster of troops.",
+    "example": "The queen walk stays below the Eagle Artillery's activation threshold."
+  },
+  {
+    "id": "equipment-slot",
+    "isFixture": false,
+    "term": "Equipment Slot",
+    "definition": "One of the two places a hero can carry equipment. The two pieces chosen together define the hero's ability in that attack.",
+    "example": "The Queen runs Giant Arrow in one slot and Healer Puppet in the other."
+  },
+  {
+    "id": "eternal-tome",
+    "isFixture": false,
+    "term": "Eternal Tome",
+    "definition": "Grand Warden equipment. When the ability fires, every unit around the Warden, including himself, becomes invincible for its duration.",
+    "example": "Pop the Eternal Tome as the Scattershot fires."
+  },
+  {
+    "id": "flame-flinger",
+    "isFixture": false,
+    "term": "Flame Flinger",
+    "definition": "A siege machine that stays outside the base and lobs fireballs at buildings from long range, releasing its clan castle troops when destroyed."
+  },
+  {
+    "id": "freeze",
+    "isFixture": false,
+    "term": "Freeze",
+    "definition": "A spell that stops defenses and enemy troops in its radius for a few seconds. It unlocks at Town Hall 9 and its duration grows with each level.",
+    "example": "Freeze the single Inferno Tower before it locks onto the hero."
+  },
+  {
+    "id": "funnel",
+    "isFixture": false,
+    "term": "Funnel",
+    "definition": "Troops or heroes placed on the flanks so the main army walks into the core instead of around the edge.",
+    "example": "Two Baby Dragons on each side make a wide funnel for the Electro Dragons."
+  },
+  {
+    "id": "giga-inferno",
+    "isFixture": false,
+    "term": "Giga Inferno",
+    "definition": "The Town Hall weapon at Town Halls 13 to 16. It fires at troops near the Town Hall and leaves a damaging effect when the Town Hall is destroyed."
+  },
+  {
+    "id": "giga-tesla",
+    "isFixture": false,
+    "term": "Giga Tesla",
+    "definition": "The Town Hall 12 weapon. It hits several targets at once and only appears once the Town Hall is damaged or the base is over half destroyed.",
+    "example": "Send the tank in first so the Giga Tesla wakes up on something sturdy."
+  },
+  {
+    "id": "hero-equipment",
+    "isFixture": false,
+    "term": "Hero Equipment",
+    "definition": "Items that decide what a hero's ability does. Each hero carries two at a time; they are upgraded with ores at the Blacksmith."
+  },
+  {
+    "id": "hero-pet",
+    "isFixture": false,
+    "term": "Hero Pet",
+    "definition": "A unit assigned to one hero from the Pet House, unlocked at Town Hall 14. Each pet has its own ability, and each hero carries one pet.",
+    "example": "L.A.S.S.I is the first pet, ready as soon as the Pet House is built."
+  },
+  {
+    "id": "hit-rate",
+    "isFixture": false,
+    "term": "Hit Rate",
+    "definition": "The share of attacks that reach three stars with a given strategy. A high hit rate matters more than one spectacular hit.",
+    "example": "Pick the army with the best hit rate for your Town Hall."
+  },
+  {
+    "id": "hitpoints",
+    "isFixture": false,
+    "term": "Hitpoints",
+    "definition": "The amount of damage a unit or building can take before it is destroyed. Often written HP."
+  },
+  {
+    "id": "hybrid",
+    "isFixture": false,
+    "term": "Hybrid",
+    "definition": "An attack that mixes Hog Riders and Miners behind a hero charge, with Healers keeping the ground troops alive.",
+    "example": "A queen charge into hybrid is a standard three-star plan for many Town Halls."
+  },
+  {
+    "id": "inferno-artillery",
+    "isFixture": false,
+    "term": "Inferno Artillery",
+    "definition": "The Town Hall 17 weapon, formed by merging the Town Hall with the Eagle Artillery. It fires fireballs that leave burning pools on impact."
+  },
+  {
+    "id": "inferno-tower",
+    "isFixture": false,
+    "term": "Inferno Tower",
+    "definition": "A defense with two modes: single-target, which ramps up damage the longer it fires, or multi-target, which hits several units at lower damage.",
+    "example": "A single-target Inferno melts a Golem, so freeze it or zap it."
+  },
+  {
+    "id": "invisibility",
+    "isFixture": false,
+    "term": "Invisibility",
+    "definition": "A spell, unlocked at Town Hall 11, that hides units inside its radius so nothing can target them until they leave it or the spell ends.",
+    "example": "Invisibility on the blimp troops keeps the Town Hall weapon off them."
+  },
+  {
+    "id": "island",
+    "isFixture": false,
+    "term": "Island",
+    "definition": "A defense or building walled off on its own, away from the rest of the base, so an army has to break in again to reach it.",
+    "example": "An Inferno Tower on an island behind the core stops a clean walk through."
+  },
+  {
+    "id": "jump",
+    "isFixture": false,
+    "term": "Jump",
+    "definition": "A spell that lets ground troops cross walls inside its radius for its duration, opening a path without breaking the wall.",
+    "example": "Drop the jump on the wall between the two core compartments."
+  },
+  {
+    "id": "junction",
+    "isFixture": false,
+    "term": "Junction",
+    "definition": "A point where several wall segments meet. Wall breakers and the Wall Wrecker aim for junctions because one break there can open more than one compartment.",
+    "example": "The Wall Wrecker breaks at the junction and opens both compartments."
+  },
+  {
+    "id": "kill-squad",
+    "isFixture": false,
+    "term": "Kill Squad",
+    "definition": "A small group, usually heroes plus a few troops, sent in first to take out a key part of the base such as the Town Hall or the clan castle troops.",
+    "example": "The kill squad handles the Eagle Artillery before the main army lands."
+  },
+  {
+    "id": "lalo",
+    "isFixture": false,
+    "term": "LaLo",
+    "definition": "Lava Hounds and Balloons. The Hounds tank the Air Defenses while the Balloons destroy defenses behind them.",
+    "example": "LaLo works best on bases with Air Defenses on one side."
+  },
+  {
+    "id": "legend-league",
+    "isFixture": false,
+    "term": "Legend League",
+    "definition": "The top tier of Ranked Battles. Attacks and defenses are limited per day, opponents are assigned, and trophies reset at the end of the season.",
+    "example": "In Legend League every attack counts, so warm up in Friendly Challenges."
+  },
+  {
+    "id": "log-launcher",
+    "isFixture": false,
+    "term": "Log Launcher",
+    "definition": "A siege machine, unlocked at Town Hall 13, that rolls logs through walls and buildings in a straight line towards the Town Hall.",
+    "example": "Aim the Log Launcher so its logs cut a lane into the core."
+  },
+  {
+    "id": "loot",
+    "isFixture": false,
+    "term": "Loot",
+    "definition": "The gold, elixir and dark elixir an attacker takes from a base. The amount on offer shows before the attack starts."
+  },
+  {
+    "id": "loot-cap",
+    "isFixture": false,
+    "term": "Loot Cap",
+    "definition": "The maximum resources one attack can take. Storages and collectors each give up only a share of what they hold, so a rich base is not fully drained."
+  },
+  {
+    "id": "monolith",
+    "isFixture": false,
+    "term": "Monolith",
+    "definition": "A defense that deals damage based on a share of the target's maximum hitpoints, so it hurts tanky units and heroes most.",
+    "example": "The Monolith is a priority target for the kill squad."
+  },
+  {
+    "id": "nine-finger",
+    "isFixture": false,
+    "term": "Nine-Finger",
+    "definition": "Dropping troops along the whole edge of the base at once instead of in a plan. It rarely three-stars but can clear a weak base fast.",
+    "example": "Nine-finger the Archers on a dead base and collect the loot."
+  },
+  {
+    "id": "ores",
+    "isFixture": false,
+    "term": "Ores",
+    "definition": "The resources used to upgrade hero equipment. They come mostly from wars, Ranked rewards, the Star Bonus and the trader rather than from raids.",
+    "example": "Ores are the bottleneck for equipment, not gold."
+  },
+  {
+    "id": "overgrowth",
+    "isFixture": false,
+    "term": "Overgrowth",
+    "definition": "An Elixir spell, unlocked at Town Hall 12, that disables defenses and makes buildings in its radius invisible and invulnerable while it lasts.",
+    "example": "Overgrowth on the outside Scattershots lets the army walk past them."
+  },
+  {
+    "id": "pathing",
+    "isFixture": false,
+    "term": "Pathing",
+    "definition": "The route troops take through a base, decided by their targeting rules and the layout. Reading pathing is what makes a funnel work.",
+    "example": "The Hogs path around the compartment instead of through it."
+  },
+  {
+    "id": "poison",
+    "isFixture": false,
+    "term": "Poison",
+    "definition": "A Dark spell that damages and slows enemy troops in its area over time. Its main use is on clan castle troops and skeletons.",
+    "example": "Poison the clan castle troops once they clump on the tank."
+  },
+  {
+    "id": "quake",
+    "isFixture": false,
+    "term": "Quake",
+    "definition": "The Earthquake spell, unlocked at Town Hall 8. It takes a share of hitpoints from buildings and walls; four of any level bring down any wall.",
+    "example": "Four quakes open the core wall for the Hogs."
+  },
+  {
+    "id": "queen-charge",
+    "isFixture": false,
+    "term": "Queen Charge",
+    "definition": "A queen walk that pushes deeper into the base, usually with more Healers and a Rage, to take out key defenses or the Town Hall.",
+    "example": "The queen charge cleared the Eagle Artillery before the hybrid went in."
+  },
+  {
+    "id": "queen-walk",
+    "isFixture": false,
+    "term": "Queen Walk",
+    "definition": "The Archer Queen walking the outside of a base with Healers behind her, clearing buildings and creating a funnel before the main army goes in.",
+    "example": "Start the queen walk on the side with the Air Sweeper facing away."
+  },
+  {
+    "id": "rage",
+    "isFixture": false,
+    "term": "Rage",
+    "definition": "A spell that boosts the damage and speed of troops inside its radius while they stay in it.",
+    "example": "Rage the Dragons as they hit the core."
+  },
+  {
+    "id": "ranked",
+    "isFixture": false,
+    "term": "Ranked",
+    "definition": "Ranked Battles, added in October 2025. Tournaments with a capped pool of attacks and a run of numbered leagues; trophies reset when each tournament ends.",
+    "example": "Ranked replaced the old Bronze-to-Titan trophy ladder."
+  },
+  {
+    "id": "recall",
+    "isFixture": false,
+    "term": "Recall",
+    "definition": "A spell, unlocked at Town Hall 13, that returns troops, heroes and pets in its area to the deployment bar so they can be placed again.",
+    "example": "Recall the queen after the walk and drop her with the main army."
+  },
+  {
+    "id": "ring-base",
+    "isFixture": false,
+    "term": "Ring Base",
+    "definition": "A layout with an outer ring of walls and buildings around the core, so ground troops circle the ring instead of walking in.",
+    "example": "Ring bases punish attackers who skip the funnel."
+  },
+  {
+    "id": "siege-barracks",
+    "isFixture": false,
+    "term": "Siege Barracks",
+    "definition": "A siege machine, unlocked at Town Hall 13, that lands and spawns troops on the spot, then releases the clan castle troops when it is destroyed."
+  },
+  {
+    "id": "siege-machine",
+    "isFixture": false,
+    "term": "Siege Machine",
+    "definition": "A vehicle built in the Workshop, unlocked at Town Hall 12, that carries the clan castle troops into a base. Each type takes a different route in.",
+    "example": "A siege machine can also be donated by a clanmate."
+  },
+  {
+    "id": "skeleton-spell",
+    "isFixture": false,
+    "term": "Skeleton Spell",
+    "definition": "A Dark spell that summons skeletons in its radius. They set off traps, distract defenses and chip at a defense the army has not reached.",
+    "example": "Two skeleton spells on the Scattershot keep it busy while the queen passes."
+  },
+  {
+    "id": "stone-slammer",
+    "isFixture": false,
+    "term": "Stone Slammer",
+    "definition": "A flying siege machine that drops boulders on defenses, dealing splash damage, and releases the clan castle troops when it is destroyed."
+  },
+  {
+    "id": "storage",
+    "isFixture": false,
+    "term": "Storage",
+    "definition": "A building that holds gold, elixir or dark elixir. Storages give up a share of their contents when destroyed, so bases guard them in the core."
+  },
+  {
+    "id": "tank",
+    "isFixture": false,
+    "term": "Tank",
+    "definition": "A high-hitpoint unit, such as a Golem or Lava Hound, placed first so defenses target it while damage dealers work behind it.",
+    "example": "The Golem tanks the Inferno while the Wizards clear the compartment."
+  },
+  {
+    "id": "th-weapon",
+    "isFixture": false,
+    "term": "TH Weapon",
+    "definition": "The defense built into the Town Hall from level 12 upward: Giga Tesla, Giga Inferno, Inferno Artillery and later forms. It fires once the Town Hall is attacked."
+  },
+  {
+    "id": "three-star",
+    "isFixture": false,
+    "term": "Three-Star",
+    "definition": "A full-destruction attack: 100 percent of the base and all three stars. In war it is the result every attack aims for.",
+    "example": "A three-star on the mirror keeps the clan ahead."
+  },
+  {
+    "id": "town-hall",
+    "isFixture": false,
+    "term": "Town Hall",
+    "definition": "The central building of the home village. Its level sets what can be built and which base links open: the same Town Hall or one level below.",
+    "example": "A Town Hall 13 account cannot open a layout link made for Town Hall 14."
+  },
+  {
+    "id": "trap-placement",
+    "isFixture": false,
+    "term": "Trap Placement",
+    "definition": "Where the hidden traps sit in a layout. Good placement catches the common path of Hogs, Miners or Balloons rather than filling empty space.",
+    "example": "Trap placement on the Hog route turned a three-star into a two."
+  },
+  {
+    "id": "troop-launcher",
+    "isFixture": false,
+    "term": "Troop Launcher",
+    "definition": "The newest siege machine, from Workshop level 8. It stays put and launches barrels of troops, including the clan castle troops, at your army to support it."
+  },
+  {
+    "id": "trophy-pushing",
+    "isFixture": false,
+    "term": "Trophy Pushing",
+    "definition": "Attacking to climb leagues rather than for loot. The aim is stars and percentage on every hit, not resources.",
+    "example": "Trophy pushing rewards a reliable army over a flashy one."
+  },
+  {
+    "id": "versus-battle",
+    "isFixture": false,
+    "term": "Versus Battle",
+    "definition": "The old name for Builder Base multiplayer attacks. Since Builder Base 2.0 there is no head-to-head: your own stars and percentage earn trophies, and defenses lose them."
+  },
+  {
+    "id": "wall-wrecker",
+    "isFixture": false,
+    "term": "Wall Wrecker",
+    "definition": "The first siege machine, available once the Workshop is built at Town Hall 12. It drives through walls towards the Town Hall and drops troops when destroyed.",
+    "example": "The Wall Wrecker takes the straight line to the core."
+  },
+  {
+    "id": "warden-ability",
+    "isFixture": false,
+    "term": "Warden Ability",
+    "definition": "The Grand Warden's active ability, unlocked with the hero at Town Hall 11. What it does depends on the equipment he carries.",
+    "example": "Save the Warden ability for the Giga Inferno burst."
+  },
+  {
+    "id": "wrap",
+    "isFixture": false,
+    "term": "Wrap",
+    "definition": "The path troops take when the army goes around the base from one side to the other instead of through the middle.",
+    "example": "The Hogs wrap around the back and never reach the core."
+  },
+  {
+    "id": "zap",
+    "isFixture": false,
+    "term": "Zap",
+    "definition": "The Lightning spell, the first spell available at Town Hall 5. It hits a small area and does no damage to the Town Hall, Clan Castle or storages.",
+    "example": "Two zaps and a quake take out the Air Defense."
+  },
+  {
+    "id": "zapquake",
+    "isFixture": false,
+    "term": "ZapQuake",
+    "definition": "Using Lightning spells plus one Earthquake to destroy a defense before the army reaches it. Common against Air Defenses and Infernos.",
+    "example": "ZapQuake both Air Defenses on the far side before sending the Dragons."
+  }
+]

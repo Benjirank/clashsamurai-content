@@ -1,0 +1,563 @@
+[
+  {
+    "id": "giant-wizard-healer",
+    "isFixture": false,
+    "thMin": 8,
+    "thMax": 9,
+    "name": "Giant-Wizard-Healer",
+    "type": "ground",
+    "difficulty": "easy",
+    "armyLink": "https://link.clashofclans.com/en?action=CopyArmy&army=NEEDS-BEN",
+    "army": [
+      { "unit": "Giant", "count": 14 },
+      { "unit": "Wizard", "count": 12 },
+      { "unit": "Healer", "count": 2 },
+      { "unit": "Wall Breaker", "count": 5 },
+      { "unit": "Archer", "count": 24 },
+      { "unit": "Dragon", "count": 1 }
+    ],
+    "spells": [
+      { "spell": "Healing Spell", "count": 2 },
+      { "spell": "Rage Spell", "count": 1 }
+    ],
+    "heroes": ["Barbarian King", "Archer Queen"],
+    "steps": [
+      "Lure and kill the defending Clan Castle troops with a handful of Archers and Wizards before anything else goes in.",
+      "Drop the Giants together on the side with the most defenses; send the Wall Breakers right behind them to open the first wall.",
+      "Once the Giants are inside the range of the Mortar and Wizard Tower, place the two Healers behind them.",
+      "Deploy the Wizards in a wide line behind the Giants so they clear buildings and keep the pack moving inward.",
+      "Heal the Giants when they reach the core and Rage them onto the Town Hall compartment.",
+      "Archers and the Dragon pick off the outside buildings; the King and Queen go last for cleanup."
+    ],
+    "tips": [
+      "Drop the Healers only after the Giants have engaged: an Air Defense that sees a Healer first kills it.",
+      "Two stars is the normal result at TH8; three needs a base with the Town Hall near the edge you push."
+    ],
+    "source": "https://clashofclans.fandom.com/wiki/Attack_Strategies:GiWiHe_(Giant_Wizard_Healer)_Strategy",
+    "credit": "Community strategy; see docs/content-ops/strategy-sources.md"
+  },
+  {
+    "id": "gowipe",
+    "isFixture": false,
+    "thMin": 8,
+    "thMax": 10,
+    "name": "GoWiPe",
+    "type": "ground",
+    "difficulty": "medium",
+    "armyLink": "https://link.clashofclans.com/en?action=CopyArmy&army=NEEDS-BEN",
+    "army": [
+      { "unit": "Golem", "count": 2 },
+      { "unit": "P.E.K.K.A", "count": 2 },
+      { "unit": "Wizard", "count": 17 },
+      { "unit": "Wall Breaker", "count": 6 },
+      { "unit": "Archer", "count": 5 }
+    ],
+    "spells": [
+      { "spell": "Healing Spell", "count": 2 },
+      { "spell": "Rage Spell", "count": 1 }
+    ],
+    "heroes": ["Barbarian King", "Archer Queen"],
+    "steps": [
+      "Lure and kill the defending Clan Castle troops with the Archers; GoWiPe fails against a live Clan Castle.",
+      "Find the shortest wall path to the Town Hall and drop the two Golems there, a short distance apart.",
+      "Wall Breakers open the first layer so the Golems walk in; the Wizards go in as one wave behind them to clear the outside buildings.",
+      "Send the P.E.K.K.As and the King through the gap once the funnel is set, and open the next wall layer just before the Golems finish the first defenses.",
+      "Rage the P.E.K.K.As onto the core and Heal the Wizards as they cross the Mortar splash.",
+      "The Queen and the last Archers clean the edge."
+    ],
+    "tips": [
+      "If the P.E.K.K.As turn away from the core, the second Wall Breaker group was late: open the next layer while the Golems are still tanking.",
+      "More than two Golems is wasted space at TH8; convert a third into Wizards."
+    ],
+    "source": "https://clashofclans.fandom.com/wiki/Attack_Strategies:Advanced_TH8_GoWiPe",
+    "credit": "Community strategy; see docs/content-ops/strategy-sources.md"
+  },
+  {
+    "id": "zap-dragons",
+    "isFixture": false,
+    "thMin": 9,
+    "thMax": 11,
+    "name": "Zap Dragons",
+    "type": "air",
+    "difficulty": "easy",
+    "armyLink": "https://link.clashofclans.com/en/?action=CopyArmy&army=u8x5-8x8-2x23s6x0-1x2-1x10",
+    "army": [
+      { "unit": "Dragon", "count": 8 },
+      { "unit": "Balloon", "count": 8 },
+      { "unit": "Baby Dragon", "count": 2 }
+    ],
+    "spells": [
+      { "spell": "Lightning Spell", "count": 6 },
+      { "spell": "Rage Spell", "count": 1 },
+      { "spell": "Earthquake Spell", "count": 1 }
+    ],
+    "clanCastle": [{ "unit": "Balloon", "count": 6 }],
+    "heroes": ["Barbarian King", "Archer Queen", "Minion Prince"],
+    "steps": [
+      "Before you start, pick the two Air Defenses you will zap: both must sit inside one Earthquake radius (check the ZapQuake tab for the Lightning count at your level).",
+      "Drop the Earthquake, then three Lightning Spells on each of those Air Defenses. If your Queen carries the Giant Arrow, line it up through two more.",
+      "Place one Baby Dragon on each flank to clear the outside buildings and funnel the pack toward the core.",
+      "Deploy the Dragons in a line between the Baby Dragons, then the Minion Prince, then the Balloons a step behind to catch the air traps.",
+      "Rage the pack as it enters the core and use the Minion Prince ability there to slow defenses and enemy heroes.",
+      "Hold the Clan Castle Balloons and Haste for the back end: an X-Bow or a surviving Air Defense."
+    ],
+    "tips": [
+      "If the last two Air Defenses are too far apart for one Earthquake, swap the Rage for a second Earthquake and split 3 Lightning + 1 Earthquake per Air Defense.",
+      "Against a strong defending Clan Castle, bring a Poison Spell in place of the Rage."
+    ],
+    "source": "https://blueprintcoc.com/blogs/town-hall-9/easiest-th9-attack-strategy",
+    "credit": "Community strategy; see docs/content-ops/strategy-sources.md"
+  },
+  {
+    "id": "mass-hogs",
+    "isFixture": false,
+    "thMin": 9,
+    "thMax": 11,
+    "name": "Mass Hogs",
+    "type": "ground",
+    "difficulty": "medium",
+    "armyLink": "https://link.clashofclans.com/en?action=CopyArmy&army=NEEDS-BEN",
+    "army": [
+      { "unit": "Hog Rider", "count": 35 },
+      { "unit": "Archer", "count": 37 },
+      { "unit": "Wall Breaker", "count": 4 }
+    ],
+    "spells": [
+      { "spell": "Healing Spell", "count": 4 },
+      { "spell": "Poison Spell", "count": 1 }
+    ],
+    "clanCastle": [{ "unit": "Hog Rider", "count": 6 }],
+    "heroes": ["Barbarian King", "Archer Queen"],
+    "steps": [
+      "Lure the defending Clan Castle troops with a few Hog Riders or Archers and kill them in a corner with Archers and the Poison Spell. Never skip this: a hidden Dragon eats the whole army.",
+      "Scan the base for empty 2x2 spots inside the walls; two or more mean likely Giant Bombs, so plan the Hog path so it turns away from them.",
+      "Deploy the Hog Riders in two or three groups along one side so they hit the nearest defenses at the same time and move inward together.",
+      "Drop a Healing Spell on the pack as it reaches each splash defense: Mortar, Wizard Tower and the Giant Bomb spots you could not avoid.",
+      "Send the Wall Breakers, King and Queen behind the Hogs so the heroes reach the Town Hall while the Hogs are busy.",
+      "Spread the Archers around the edge in the last minute to finish the buildings the Hogs ignore."
+    ],
+    "tips": [
+      "Hog Riders only ever target defenses, so the Archers and heroes are the whole cleanup plan; keep them back until the defenses are down.",
+      "Heal, never Rage: a Raged Hog runs out of the Healing Spell radius and dies to the next splash hit."
+    ],
+    "source": "https://www.clasher.us/guide/hog-riders-army-compositions",
+    "credit": "Community strategy; see docs/content-ops/strategy-sources.md"
+  },
+  {
+    "id": "lavaloon",
+    "isFixture": false,
+    "thMin": 9,
+    "thMax": 12,
+    "name": "Queen Charge LavaLoon",
+    "type": "air",
+    "difficulty": "hard",
+    "armyLink": "https://link.clashofclans.com/en/?action=CopyArmy&army=u8x4-4x7-17x5-1x1-1x23-1x6-1x17-9x10s3x2-1x1-1x5",
+    "army": [
+      { "unit": "Balloon", "count": 17 },
+      { "unit": "Minion", "count": 9 },
+      { "unit": "Lava Hound", "count": 1 },
+      { "unit": "Healer", "count": 4 },
+      { "unit": "Wall Breaker", "count": 8 },
+      { "unit": "Baby Dragon", "count": 1 },
+      { "unit": "Wizard", "count": 1 },
+      { "unit": "Archer", "count": 1 }
+    ],
+    "spells": [
+      { "spell": "Rage Spell", "count": 3 },
+      { "spell": "Healing Spell", "count": 1 },
+      { "spell": "Freeze Spell", "count": 1 }
+    ],
+    "heroes": ["Barbarian King", "Archer Queen"],
+    "steps": [
+      "Choose the side with the most defenses inside the Queen's reach; drop the Baby Dragon and Wizard first to clear the outside buildings and shape her path.",
+      "Deploy the Queen with the four Healers behind her; use Wall Breakers to open the first compartment and to pull the Clan Castle troops.",
+      "Let the Queen kill the Clan Castle troops and the nearest Air Defense. Pop her ability when the Healers take fire and drop the Healing Spell if the pack is dying.",
+      "Once the Queen has cleared a wedge, send the Lava Hound toward the next Air Defense and spread the Balloons in an arc behind it.",
+      "Rage the Balloons as they reach the core defenses; Freeze the Air Defense or Wizard Tower that is threatening the Hound.",
+      "Send the King and the Minions last to clean the buildings the Lava Pups miss."
+    ],
+    "tips": [
+      "Balloons must move as one front: gaps let single-target defenses pick them off, so spread them evenly along the edge the Queen cleared.",
+      "LavaLoon is slow; keep the Minions in hand for the last buildings so a three-star does not become a time fail."
+    ],
+    "source": "https://blueprintcoc.com/blogs/town-hall-9/best-th9-attack-strategies",
+    "credit": "Community strategy; see docs/content-ops/strategy-sources.md"
+  },
+  {
+    "id": "queen-charge-miners",
+    "isFixture": false,
+    "thMin": 10,
+    "thMax": 13,
+    "name": "Queen Charge Miners",
+    "type": "ground",
+    "difficulty": "hard",
+    "armyLink": "https://link.clashofclans.com/en/?action=CopyArmy&army=h1e39_15-0e14_8i7x11d1x9u4x7-8x4-2x6-1x23-1x12-2x10-21x24-2x1-2x5s3x2-2x1-1x5",
+    "army": [
+      { "unit": "Miner", "count": 21 },
+      { "unit": "Healer", "count": 4 },
+      { "unit": "Wall Breaker", "count": 8 },
+      { "unit": "Wizard", "count": 2 },
+      { "unit": "Archer", "count": 2 },
+      { "unit": "Balloon", "count": 2 },
+      { "unit": "Minion", "count": 2 },
+      { "unit": "Baby Dragon", "count": 1 },
+      { "unit": "Valkyrie", "count": 1 }
+    ],
+    "spells": [
+      { "spell": "Rage Spell", "count": 3 },
+      { "spell": "Healing Spell", "count": 2 },
+      { "spell": "Freeze Spell", "count": 1 }
+    ],
+    "clanCastle": [{ "unit": "Hog Rider", "count": 7 }],
+    "heroes": ["Barbarian King", "Archer Queen"],
+    "steps": [
+      "Clear the outside with the Baby Dragon, Wizards and Archers, then walk the Queen in with the Healers behind her; the Wall Breakers open the first wall.",
+      "Rage the Queen through the compartment that holds the enemy Queen, the Clan Castle or an Inferno Tower; Freeze whichever defense is killing her Healers.",
+      "Drop the Poison from the Clan Castle on the defending troops the Queen pulls out.",
+      "When the Queen has carved a clear path, deploy the Miners as one wave across the entry side, then the King and the Valkyrie behind them.",
+      "Place the first Healing Spell where the Miners meet the splash defenses and Giant Bombs; save the second for the core.",
+      "The Clan Castle Hog Riders go in with the Miners; Balloons and Minions finish the outside buildings the Miners skip."
+    ],
+    "tips": [
+      "Keep the Queen alive: she is the funnel and half the damage. Never let the Healers wander outside her range.",
+      "Miners are underground while they move, so a Healing Spell dropped ahead of them wastes half its duration; place it on the building they are digging toward."
+    ],
+    "source": "https://blueprintcoc.com/blogs/town-hall-10/best-armies",
+    "credit": "Community strategy; see docs/content-ops/strategy-sources.md"
+  },
+  {
+    "id": "electro-dragons",
+    "isFixture": false,
+    "thMin": 11,
+    "thMax": 14,
+    "name": "Electro Dragons",
+    "type": "air",
+    "difficulty": "easy",
+    "armyLink": "https://link.clashofclans.com/en/?action=CopyArmy&army=u7x59-8x5-1x23s3x2-4x5-1x9",
+    "army": [
+      { "unit": "Electro Dragon", "count": 7 },
+      { "unit": "Balloon", "count": 8 },
+      { "unit": "Baby Dragon", "count": 1 }
+    ],
+    "spells": [
+      { "spell": "Rage Spell", "count": 3 },
+      { "spell": "Freeze Spell", "count": 4 },
+      { "spell": "Poison Spell", "count": 1 }
+    ],
+    "clanCastle": [{ "unit": "Balloon", "count": 7 }],
+    "heroes": ["Barbarian King", "Archer Queen", "Grand Warden"],
+    "steps": [
+      "Pick a compact base with the defenses grouped closely, and start on the side the Air Sweepers do not face.",
+      "Clear one side with the King and Queen and drop the Baby Dragon on the other edge to funnel.",
+      "Place one Electro Dragon first to widen the funnel, then the rest in a line with the Balloons a step behind.",
+      "Double Rage the pack as it hits the core; Freeze the Inferno Towers and Air Defenses that lock onto a single Dragon.",
+      "Fire the Warden's ability when several Dragons take fire at once, and Poison the defending Clan Castle troops.",
+      "The Clan Castle Balloons go in with the Dragons to soak the air traps and speed up the outer defenses."
+    ],
+    "tips": [
+      "Electro Dragons chain their damage between buildings, so tightly packed bases die fastest; skip bases with the defenses spread far apart.",
+      "Do not spend the Freezes early: hold them for the core where the Dragons stall."
+    ],
+    "source": "https://blueprintcoc.com/blogs/town-hall-11/best-th11-attack-strategies",
+    "credit": "Community strategy; see docs/content-ops/strategy-sources.md"
+  },
+  {
+    "id": "hybrid-hog-miner",
+    "isFixture": false,
+    "thMin": 12,
+    "thMax": 15,
+    "name": "Queen Charge Hybrid",
+    "type": "hybrid",
+    "difficulty": "hard",
+    "armyLink": "https://link.clashofclans.com/en/?action=CopyArmy&army=u1x1-3x28-4x5-2x6-5x7-1x23-15x24-9x11-2x82-1x52s2x1-3x2-1x9",
+    "army": [
+      { "unit": "Miner", "count": 15 },
+      { "unit": "Hog Rider", "count": 9 },
+      { "unit": "Healer", "count": 5 },
+      { "unit": "Balloon", "count": 4 },
+      { "unit": "Super Wall Breaker", "count": 3 },
+      { "unit": "Wizard", "count": 2 },
+      { "unit": "Headhunter", "count": 2 },
+      { "unit": "Baby Dragon", "count": 1 },
+      { "unit": "Archer", "count": 1 },
+      { "unit": "Battle Blimp", "count": 1 }
+    ],
+    "spells": [
+      { "spell": "Healing Spell", "count": 2 },
+      { "spell": "Rage Spell", "count": 3 },
+      { "spell": "Poison Spell", "count": 1 }
+    ],
+    "heroes": ["Barbarian King", "Archer Queen", "Grand Warden"],
+    "steps": [
+      "Send the Battle Blimp at the compartment that hurts the Queen most (an Inferno Tower or the Town Hall), or use it to pull the defending Clan Castle troops.",
+      "Funnel with the Baby Dragon and Wizards, then walk the Queen in with the five Healers; the Super Wall Breakers open the walls toward the Eagle Artillery and the enemy heroes.",
+      "Rage the Queen through the key compartment and Poison the defending Clan Castle troops when they appear.",
+      "When the Queen has cleared about a third of the base, deploy the Hog Riders and Miners together on the edge she cleared, with the King and Warden behind.",
+      "Drop the first Healing Spell where the Hogs and Miners cross the splash defenses, the second in the core.",
+      "Balloons and Headhunters clean the remaining outside buildings and the enemy heroes."
+    ],
+    "tips": [
+      "The Queen must remove the Eagle Artillery, or the whole side it covers, before the Hybrid goes in; otherwise the Miners die under it.",
+      "Hogs run ahead of Miners: drop the Miners a second earlier so both reach the defenses together.",
+      "From TH13 request a Siege Barracks instead of the Blimp; it holds the far side of the funnel."
+    ],
+    "source": "https://blueprintcoc.com/blogs/town-hall-12/best-armies",
+    "credit": "Community strategy; see docs/content-ops/strategy-sources.md"
+  },
+  {
+    "id": "yeti-smash",
+    "isFixture": false,
+    "thMin": 13,
+    "thMax": 15,
+    "name": "Yeti Super Archer Smash",
+    "type": "ground",
+    "difficulty": "medium",
+    "armyLink": "https://link.clashofclans.com/en/?action=CopyArmy&army=u10x53-7x27-2x58-1x82-1x87s2x3-3x2-1x9",
+    "army": [
+      { "unit": "Yeti", "count": 10 },
+      { "unit": "Super Archer", "count": 7 },
+      { "unit": "Ice Golem", "count": 2 },
+      { "unit": "Headhunter", "count": 1 },
+      { "unit": "Log Launcher", "count": 1 }
+    ],
+    "spells": [
+      { "spell": "Jump Spell", "count": 2 },
+      { "spell": "Rage Spell", "count": 3 },
+      { "spell": "Poison Spell", "count": 1 }
+    ],
+    "heroes": ["Barbarian King", "Archer Queen", "Grand Warden", "Royal Champion"],
+    "steps": [
+      "Drop the two Ice Golems first on the chosen side so they take the fire of the outer defenses.",
+      "Spam the Yetis in a line behind them, with the heroes and the Log Launcher in the middle of the line.",
+      "Place the Super Archers evenly along the flanks and one group down the center so they shoot over the walls the Yetis are chewing on.",
+      "Jump the pack into the core compartment, then Rage where the defenses are densest.",
+      "Use the Warden's ability early to shield the Yetis; save the Queen's ability for a Scattershot or an Inferno Tower.",
+      "The Royal Champion and the Headhunter deal with the enemy heroes on the back end."
+    ],
+    "tips": [
+      "Aim the Log Launcher at the Town Hall compartment: it opens the walls the Yetis would otherwise waste time on.",
+      "Yetimites keep spawning as the Yetis take damage, so keep the pack together instead of spreading it around the base."
+    ],
+    "source": "https://blueprintcoc.com/blogs/town-hall-13/best-armies",
+    "credit": "Community strategy; see docs/content-ops/strategy-sources.md"
+  },
+  {
+    "id": "super-witches",
+    "isFixture": false,
+    "thMin": 13,
+    "thMax": 15,
+    "name": "Fireball Super Witches",
+    "type": "super",
+    "difficulty": "hard",
+    "armyLink": "https://link.clashofclans.com/en/?action=CopyArmy&army=h0e8_14-1e17_20-2e22_24-4e13_40i9x11-1x75d2x120u5x7-4x66-2x28-2x82-1x58-1x12-2x6-2x5-1x1s4x35-1x10-1x2-1x3-1x9-1x5",
+    "army": [
+      { "unit": "Super Witch", "count": 4 },
+      { "unit": "Healer", "count": 5 },
+      { "unit": "Super Wall Breaker", "count": 2 },
+      { "unit": "Headhunter", "count": 2 },
+      { "unit": "Wizard", "count": 2 },
+      { "unit": "Balloon", "count": 2 },
+      { "unit": "Ice Golem", "count": 1 },
+      { "unit": "Valkyrie", "count": 1 },
+      { "unit": "Archer", "count": 1 }
+    ],
+    "spells": [
+      { "spell": "Invisibility Spell", "count": 4 },
+      { "spell": "Earthquake Spell", "count": 1 },
+      { "spell": "Rage Spell", "count": 1 },
+      { "spell": "Jump Spell", "count": 1 },
+      { "spell": "Poison Spell", "count": 1 },
+      { "spell": "Freeze Spell", "count": 1 }
+    ],
+    "clanCastle": [
+      { "unit": "Hog Rider", "count": 9 },
+      { "unit": "Siege Barracks", "count": 1 }
+    ],
+    "heroes": ["Barbarian King", "Archer Queen", "Grand Warden", "Royal Champion"],
+    "steps": [
+      "Start with a Warden walk: Healers behind the Warden, Invisibility to keep him alive, and the Fireball on a Scattershot or a stacked defense cluster.",
+      "Let the Warden walk a little further to widen the funnel, and Earthquake the walls of the compartment you will push through.",
+      "Deploy the Super Witches with the King into the opened section; the Ice Golem tanks in front.",
+      "Drop the Siege Barracks on the opposite flank; its troops and the Clan Castle Hog Riders hold the funnel open.",
+      "Jump late, not early, so the Witches and their Big Boys stay tight through the core, and Rage there.",
+      "The Royal Champion and the Headhunters clean the back end."
+    ],
+    "tips": [
+      "This is a slow attack: watch the clock and send the Balloons and Valkyrie at leftover buildings before the last minute.",
+      "Freeze a multi-target Inferno Tower as the Witches enter its range; the Big Boys cannot out-heal it."
+    ],
+    "source": "https://blueprintcoc.com/blogs/town-hall-13/best-th13-attack-strategies",
+    "credit": "Community strategy; see docs/content-ops/strategy-sources.md"
+  },
+  {
+    "id": "root-rider-spam",
+    "isFixture": false,
+    "thMin": 16,
+    "thMax": 18,
+    "name": "Root Rider Spam",
+    "type": "ground",
+    "difficulty": "easy",
+    "armyLink": "https://link.clashofclans.com/en/?action=CopyArmy&army=u6x110-8x12-1x97-2x123-2x82-12x26-1x28-1x6-1x75s1x3-3x2-1x70-1x9",
+    "army": [
+      { "unit": "Root Rider", "count": 6 },
+      { "unit": "Valkyrie", "count": 8 },
+      { "unit": "Super Barbarian", "count": 12 },
+      { "unit": "Druid", "count": 2 },
+      { "unit": "Headhunter", "count": 2 },
+      { "unit": "Apprentice Warden", "count": 1 },
+      { "unit": "Super Wall Breaker", "count": 1 },
+      { "unit": "Wizard", "count": 1 },
+      { "unit": "Siege Barracks", "count": 1 }
+    ],
+    "spells": [
+      { "spell": "Jump Spell", "count": 1 },
+      { "spell": "Rage Spell", "count": 3 },
+      { "spell": "Overgrowth Spell", "count": 1 },
+      { "spell": "Poison Spell", "count": 1 }
+    ],
+    "heroes": ["Barbarian King", "Archer Queen", "Grand Warden", "Royal Champion"],
+    "steps": [
+      "Funnel with the King and Queen into the heavy compartments on the side you push.",
+      "Drop the Siege Barracks on the opposite flank to hold the funnel.",
+      "Once the funnel is set, deploy the Root Riders in a line, with the Valkyries and Super Barbarians behind and the Druids and Apprentice Warden in the center.",
+      "Send the Royal Champion with the Root Riders for the extra damage.",
+      "Overgrowth the Town Hall compartment so the pack does not stall on it; Rage and Jump into the core.",
+      "Clean up the Town Hall last with the Headhunters and whatever survives."
+    ],
+    "tips": [
+      "Root Riders break walls themselves, so keep the Super Wall Breaker for the funnel side, not the core.",
+      "Druids keep the Valkyries alive deep in the base; drop them a beat behind the front line."
+    ],
+    "source": "https://blueprintcoc.com/blogs/town-hall-16/top-5-th16-army-links",
+    "credit": "Community strategy; see docs/content-ops/strategy-sources.md"
+  },
+  {
+    "id": "super-archer-blimp-dragons",
+    "isFixture": false,
+    "thMin": 14,
+    "thMax": 18,
+    "name": "Super Archer Blimp Dragons",
+    "type": "super",
+    "difficulty": "medium",
+    "armyLink": "https://link.clashofclans.com/en/?action=CopyArmy&army=h0p1e8_14-1p3e39_20-2m1p2e4_34-4p0e40_13i3x27-1x28-1x52d1x16u11x8-6x5-1x17-1x23-2x6-1x10s6x35-1x16-1x2",
+    "army": [
+      { "unit": "Dragon", "count": 11 },
+      { "unit": "Balloon", "count": 6 },
+      { "unit": "Lava Hound", "count": 1 },
+      { "unit": "Baby Dragon", "count": 1 },
+      { "unit": "Wizard", "count": 2 },
+      { "unit": "Minion", "count": 1 }
+    ],
+    "spells": [
+      { "spell": "Invisibility Spell", "count": 6 },
+      { "spell": "Clone Spell", "count": 1 },
+      { "spell": "Rage Spell", "count": 1 }
+    ],
+    "clanCastle": [
+      { "unit": "Super Archer", "count": 3 },
+      { "unit": "Super Wall Breaker", "count": 1 },
+      { "unit": "Battle Blimp", "count": 1 }
+    ],
+    "heroes": ["Barbarian King", "Archer Queen", "Grand Warden", "Royal Champion"],
+    "steps": [
+      "Aim the Blimp carrying the Clan Castle Super Archers at the Town Hall or the densest defense cluster; send the Lava Hound just ahead of it to soak the Air Defense fire.",
+      "When the Blimp lands, cast Invisibility on the Super Archers, then the Clone Spell, then Rage.",
+      "Keep cycling Invisibility every few seconds so the Super Archers shoot through the core untouched.",
+      "Funnel both sides with the King and Queen, then send the Dragons and the Warden through the middle.",
+      "Fire the Warden's ability when the Dragons hit the heavy defenses; the Balloons follow to catch the traps.",
+      "Baby Dragon, Wizards and the Minion finish the outside buildings."
+    ],
+    "tips": [
+      "Never drop the Blimp on an empty compartment: the Super Archers need buildings in range for the whole Invisibility chain.",
+      "Count the Air Defenses on the Blimp's path; the Lava Hound must reach them before the Blimp does."
+    ],
+    "source": "https://blueprintcoc.com/blogs/town-hall-14/best-th14-attack-strategies",
+    "credit": "Community strategy; see docs/content-ops/strategy-sources.md"
+  },
+  {
+    "id": "titan-smash",
+    "isFixture": false,
+    "thMin": 16,
+    "thMax": 18,
+    "name": "Titan Smash",
+    "type": "ground",
+    "difficulty": "medium",
+    "armyLink": "https://link.clashofclans.com/en/?action=CopyArmy&army=u3x95-10x26-4x28-1x75-3x1-3x5-4x7-1x13-3x82-1x97s2x17-1x35-1x3-3x2",
+    "army": [
+      { "unit": "Electro Titan", "count": 3 },
+      { "unit": "Super Barbarian", "count": 10 },
+      { "unit": "Super Wall Breaker", "count": 4 },
+      { "unit": "Healer", "count": 4 },
+      { "unit": "Golem", "count": 1 },
+      { "unit": "Headhunter", "count": 3 },
+      { "unit": "Apprentice Warden", "count": 1 },
+      { "unit": "Archer", "count": 3 },
+      { "unit": "Balloon", "count": 3 },
+      { "unit": "Siege Barracks", "count": 1 }
+    ],
+    "spells": [
+      { "spell": "Skeleton Spell", "count": 2 },
+      { "spell": "Invisibility Spell", "count": 1 },
+      { "spell": "Jump Spell", "count": 1 },
+      { "spell": "Rage Spell", "count": 3 }
+    ],
+    "heroes": ["Barbarian King", "Archer Queen", "Grand Warden", "Royal Champion"],
+    "steps": [
+      "Funnel one side with the Queen and a few Super Barbarians, and drop the Siege Barracks on the other.",
+      "Once the funnel is set, send the Golem and the Electro Titans in a line, with the Healers and the Warden behind the Titans.",
+      "The Super Wall Breakers open the first two compartments; Jump the pack into the core.",
+      "Rage the Titans as they reach the core; their aura damages every building they pass, so keep them moving.",
+      "Use the Skeleton Spells to distract the Inferno Towers and Scattershots the Titans have not reached yet, and Invisibility to save the Healers under Scattershot fire.",
+      "Headhunters and the Royal Champion remove the enemy heroes; the Archers and Balloons clean the edge."
+    ],
+    "tips": [
+      "The three Titans have to stay together: if one wanders, the others lose the Healers and the aura stops stacking.",
+      "Pick bases with the Town Hall near the edge you push; Titan Smash is slow and time fails are the usual way it loses."
+    ],
+    "source": "https://blueprintcoc.com/blogs/town-hall-16/new-th16-attack-strategy",
+    "credit": "Community strategy; see docs/content-ops/strategy-sources.md"
+  },
+  {
+    "id": "super-dragons",
+    "isFixture": false,
+    "thMin": 15,
+    "thMax": 18,
+    "name": "Super Dragons",
+    "type": "super",
+    "difficulty": "easy",
+    "armyLink": "https://link.clashofclans.com/en?action=CopyArmy&army=u2x1-8x5-1x6-1x10-1x28-1x52-1x53-6x81-1x82s2x0-1x2-1x16-4x35",
+    "army": [
+      { "unit": "Super Dragon", "count": 6 },
+      { "unit": "Balloon", "count": 8 },
+      { "unit": "Yeti", "count": 1 },
+      { "unit": "Super Wall Breaker", "count": 1 },
+      { "unit": "Headhunter", "count": 1 },
+      { "unit": "Archer", "count": 2 },
+      { "unit": "Wizard", "count": 1 },
+      { "unit": "Minion", "count": 1 },
+      { "unit": "Battle Blimp", "count": 1 }
+    ],
+    "spells": [
+      { "spell": "Lightning Spell", "count": 2 },
+      { "spell": "Rage Spell", "count": 1 },
+      { "spell": "Clone Spell", "count": 1 },
+      { "spell": "Invisibility Spell", "count": 4 }
+    ],
+    "clanCastle": [{ "unit": "Super Minion", "count": 4 }],
+    "heroes": ["Barbarian King", "Archer Queen", "Grand Warden", "Royal Champion"],
+    "steps": [
+      "Zap the Air Sweeper on your entry side with the two Lightning Spells; if no Sweeper faces you, swap them for another Rage and a Freeze.",
+      "Funnel with one Super Dragon on the top edge; the King and Queen join that side if they add value there.",
+      "Send the Blimp with the four Clan Castle Super Minions at the Town Hall; Invisibility, then Clone, then Rage when it lands.",
+      "Once the funnel is set and the Town Hall is down, release the remaining Super Dragons into the core with the Balloons behind them.",
+      "Rage the Dragons in the core and pop the Warden's ability under Scattershot or Inferno fire.",
+      "The Yeti, Wizard and Archers handle the outside buildings the Dragons ignore."
+    ],
+    "tips": [
+      "Super Minion Clone is hard for a base to bait: keep the Invisibility chain going for the full Clone duration.",
+      "Super Dragons fly slowly; pick a compact base or you will time fail."
+    ],
+    "source": "https://blueprintcoc.com/blogs/coc-attack-strategies/easy-army-every-th",
+    "credit": "Community strategy; see docs/content-ops/strategy-sources.md"
+  }
+]

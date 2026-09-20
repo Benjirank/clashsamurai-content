@@ -1,0 +1,1094 @@
+{
+  "isFixture": false,
+  "source": "https://clashofclans.fandom.com/wiki/Lightning_Spell",
+  "lightning": [
+    {
+      "level": 1,
+      "damage": 150
+    },
+    {
+      "level": 2,
+      "damage": 180
+    },
+    {
+      "level": 3,
+      "damage": 210
+    },
+    {
+      "level": 4,
+      "damage": 240
+    },
+    {
+      "level": 5,
+      "damage": 270
+    },
+    {
+      "level": 6,
+      "damage": 320
+    },
+    {
+      "level": 7,
+      "damage": 400
+    },
+    {
+      "level": 8,
+      "damage": 480
+    },
+    {
+      "level": 9,
+      "damage": 560
+    },
+    {
+      "level": 10,
+      "damage": 600
+    },
+    {
+      "level": 11,
+      "damage": 640
+    },
+    {
+      "level": 12,
+      "damage": 680
+    },
+    {
+      "level": 13,
+      "damage": 720
+    }
+  ],
+  "earthquake": [
+    {
+      "level": 1,
+      "percent": 14.5
+    },
+    {
+      "level": 2,
+      "percent": 17
+    },
+    {
+      "level": 3,
+      "percent": 21
+    },
+    {
+      "level": 4,
+      "percent": 25
+    },
+    {
+      "level": 5,
+      "percent": 29
+    },
+    {
+      "level": 6,
+      "percent": 29
+    },
+    {
+      "level": 7,
+      "percent": 29
+    },
+    {
+      "level": 8,
+      "percent": 29
+    }
+  ],
+  "housing": {
+    "lightning": 1,
+    "earthquake": 1
+  },
+  "defenses": [
+    {
+      "name": "Air Defense",
+      "levels": [
+        {
+          "level": 1,
+          "hitpoints": 800
+        },
+        {
+          "level": 2,
+          "hitpoints": 850
+        },
+        {
+          "level": 3,
+          "hitpoints": 900
+        },
+        {
+          "level": 4,
+          "hitpoints": 950
+        },
+        {
+          "level": 5,
+          "hitpoints": 1000
+        },
+        {
+          "level": 6,
+          "hitpoints": 1050
+        },
+        {
+          "level": 7,
+          "hitpoints": 1100
+        },
+        {
+          "level": 8,
+          "hitpoints": 1210
+        },
+        {
+          "level": 9,
+          "hitpoints": 1300
+        },
+        {
+          "level": 10,
+          "hitpoints": 1400
+        },
+        {
+          "level": 11,
+          "hitpoints": 1500
+        },
+        {
+          "level": 12,
+          "hitpoints": 1650
+        },
+        {
+          "level": 13,
+          "hitpoints": 1750
+        },
+        {
+          "level": 14,
+          "hitpoints": 1850
+        },
+        {
+          "level": 15,
+          "hitpoints": 1950
+        },
+        {
+          "level": 16,
+          "hitpoints": 2000
+        }
+      ]
+    },
+    {
+      "name": "Archer Tower",
+      "levels": [
+        {
+          "level": 1,
+          "hitpoints": 380
+        },
+        {
+          "level": 2,
+          "hitpoints": 420
+        },
+        {
+          "level": 3,
+          "hitpoints": 460
+        },
+        {
+          "level": 4,
+          "hitpoints": 500
+        },
+        {
+          "level": 5,
+          "hitpoints": 540
+        },
+        {
+          "level": 6,
+          "hitpoints": 580
+        },
+        {
+          "level": 7,
+          "hitpoints": 630
+        },
+        {
+          "level": 8,
+          "hitpoints": 690
+        },
+        {
+          "level": 9,
+          "hitpoints": 750
+        },
+        {
+          "level": 10,
+          "hitpoints": 810
+        },
+        {
+          "level": 11,
+          "hitpoints": 890
+        },
+        {
+          "level": 12,
+          "hitpoints": 970
+        },
+        {
+          "level": 13,
+          "hitpoints": 1050
+        },
+        {
+          "level": 14,
+          "hitpoints": 1130
+        },
+        {
+          "level": 15,
+          "hitpoints": 1230
+        },
+        {
+          "level": 16,
+          "hitpoints": 1310
+        },
+        {
+          "level": 17,
+          "hitpoints": 1390
+        },
+        {
+          "level": 18,
+          "hitpoints": 1510
+        },
+        {
+          "level": 19,
+          "hitpoints": 1600
+        },
+        {
+          "level": 20,
+          "hitpoints": 1700
+        },
+        {
+          "level": 21,
+          "hitpoints": 1800
+        }
+      ]
+    },
+    {
+      "name": "Cannon",
+      "levels": [
+        {
+          "level": 1,
+          "hitpoints": 300
+        },
+        {
+          "level": 2,
+          "hitpoints": 360
+        },
+        {
+          "level": 3,
+          "hitpoints": 420
+        },
+        {
+          "level": 4,
+          "hitpoints": 500
+        },
+        {
+          "level": 5,
+          "hitpoints": 600
+        },
+        {
+          "level": 6,
+          "hitpoints": 660
+        },
+        {
+          "level": 7,
+          "hitpoints": 730
+        },
+        {
+          "level": 8,
+          "hitpoints": 800
+        },
+        {
+          "level": 9,
+          "hitpoints": 880
+        },
+        {
+          "level": 10,
+          "hitpoints": 960
+        },
+        {
+          "level": 11,
+          "hitpoints": 1060
+        },
+        {
+          "level": 12,
+          "hitpoints": 1160
+        },
+        {
+          "level": 13,
+          "hitpoints": 1260
+        },
+        {
+          "level": 14,
+          "hitpoints": 1380
+        },
+        {
+          "level": 15,
+          "hitpoints": 1500
+        },
+        {
+          "level": 16,
+          "hitpoints": 1620
+        },
+        {
+          "level": 17,
+          "hitpoints": 1740
+        },
+        {
+          "level": 18,
+          "hitpoints": 1870
+        },
+        {
+          "level": 19,
+          "hitpoints": 2000
+        },
+        {
+          "level": 20,
+          "hitpoints": 2150
+        },
+        {
+          "level": 21,
+          "hitpoints": 2250
+        }
+      ]
+    },
+    {
+      "name": "Mortar",
+      "levels": [
+        {
+          "level": 1,
+          "hitpoints": 400
+        },
+        {
+          "level": 2,
+          "hitpoints": 450
+        },
+        {
+          "level": 3,
+          "hitpoints": 500
+        },
+        {
+          "level": 4,
+          "hitpoints": 550
+        },
+        {
+          "level": 5,
+          "hitpoints": 600
+        },
+        {
+          "level": 6,
+          "hitpoints": 650
+        },
+        {
+          "level": 7,
+          "hitpoints": 700
+        },
+        {
+          "level": 8,
+          "hitpoints": 800
+        },
+        {
+          "level": 9,
+          "hitpoints": 950
+        },
+        {
+          "level": 10,
+          "hitpoints": 1100
+        },
+        {
+          "level": 11,
+          "hitpoints": 1300
+        },
+        {
+          "level": 12,
+          "hitpoints": 1500
+        },
+        {
+          "level": 13,
+          "hitpoints": 1700
+        },
+        {
+          "level": 14,
+          "hitpoints": 1950
+        },
+        {
+          "level": 15,
+          "hitpoints": 2150
+        },
+        {
+          "level": 16,
+          "hitpoints": 2300
+        },
+        {
+          "level": 17,
+          "hitpoints": 2450
+        },
+        {
+          "level": 18,
+          "hitpoints": 2550
+        }
+      ]
+    },
+    {
+      "name": "Wizard Tower",
+      "levels": [
+        {
+          "level": 1,
+          "hitpoints": 620
+        },
+        {
+          "level": 2,
+          "hitpoints": 650
+        },
+        {
+          "level": 3,
+          "hitpoints": 680
+        },
+        {
+          "level": 4,
+          "hitpoints": 730
+        },
+        {
+          "level": 5,
+          "hitpoints": 840
+        },
+        {
+          "level": 6,
+          "hitpoints": 960
+        },
+        {
+          "level": 7,
+          "hitpoints": 1200
+        },
+        {
+          "level": 8,
+          "hitpoints": 1440
+        },
+        {
+          "level": 9,
+          "hitpoints": 1600
+        },
+        {
+          "level": 10,
+          "hitpoints": 1900
+        },
+        {
+          "level": 11,
+          "hitpoints": 2120
+        },
+        {
+          "level": 12,
+          "hitpoints": 2240
+        },
+        {
+          "level": 13,
+          "hitpoints": 2500
+        },
+        {
+          "level": 14,
+          "hitpoints": 2800
+        },
+        {
+          "level": 15,
+          "hitpoints": 3000
+        },
+        {
+          "level": 16,
+          "hitpoints": 3150
+        },
+        {
+          "level": 17,
+          "hitpoints": 3300
+        }
+      ]
+    },
+    {
+      "name": "Air Sweeper",
+      "levels": [
+        {
+          "level": 1,
+          "hitpoints": 750
+        },
+        {
+          "level": 2,
+          "hitpoints": 800
+        },
+        {
+          "level": 3,
+          "hitpoints": 850
+        },
+        {
+          "level": 4,
+          "hitpoints": 900
+        },
+        {
+          "level": 5,
+          "hitpoints": 950
+        },
+        {
+          "level": 6,
+          "hitpoints": 1000
+        },
+        {
+          "level": 7,
+          "hitpoints": 1050
+        }
+      ]
+    },
+    {
+      "name": "Hidden Tesla",
+      "levels": [
+        {
+          "level": 1,
+          "hitpoints": 600
+        },
+        {
+          "level": 2,
+          "hitpoints": 630
+        },
+        {
+          "level": 3,
+          "hitpoints": 660
+        },
+        {
+          "level": 4,
+          "hitpoints": 690
+        },
+        {
+          "level": 5,
+          "hitpoints": 730
+        },
+        {
+          "level": 6,
+          "hitpoints": 770
+        },
+        {
+          "level": 7,
+          "hitpoints": 810
+        },
+        {
+          "level": 8,
+          "hitpoints": 850
+        },
+        {
+          "level": 9,
+          "hitpoints": 900
+        },
+        {
+          "level": 10,
+          "hitpoints": 980
+        },
+        {
+          "level": 11,
+          "hitpoints": 1100
+        },
+        {
+          "level": 12,
+          "hitpoints": 1200
+        },
+        {
+          "level": 13,
+          "hitpoints": 1350
+        },
+        {
+          "level": 14,
+          "hitpoints": 1450
+        },
+        {
+          "level": 15,
+          "hitpoints": 1550
+        },
+        {
+          "level": 16,
+          "hitpoints": 1650
+        },
+        {
+          "level": 17,
+          "hitpoints": 1750
+        }
+      ]
+    },
+    {
+      "name": "Bomb Tower",
+      "levels": [
+        {
+          "level": 1,
+          "hitpoints": 650
+        },
+        {
+          "level": 2,
+          "hitpoints": 700
+        },
+        {
+          "level": 3,
+          "hitpoints": 750
+        },
+        {
+          "level": 4,
+          "hitpoints": 850
+        },
+        {
+          "level": 5,
+          "hitpoints": 1050
+        },
+        {
+          "level": 6,
+          "hitpoints": 1300
+        },
+        {
+          "level": 7,
+          "hitpoints": 1600
+        },
+        {
+          "level": 8,
+          "hitpoints": 1900
+        },
+        {
+          "level": 9,
+          "hitpoints": 2300
+        },
+        {
+          "level": 10,
+          "hitpoints": 2500
+        },
+        {
+          "level": 11,
+          "hitpoints": 2700
+        },
+        {
+          "level": 12,
+          "hitpoints": 2900
+        },
+        {
+          "level": 13,
+          "hitpoints": 3050
+        }
+      ]
+    },
+    {
+      "name": "X-Bow",
+      "levels": [
+        {
+          "level": 1,
+          "hitpoints": 1500
+        },
+        {
+          "level": 2,
+          "hitpoints": 1900
+        },
+        {
+          "level": 3,
+          "hitpoints": 2300
+        },
+        {
+          "level": 4,
+          "hitpoints": 2700
+        },
+        {
+          "level": 5,
+          "hitpoints": 3100
+        },
+        {
+          "level": 6,
+          "hitpoints": 3400
+        },
+        {
+          "level": 7,
+          "hitpoints": 3700
+        },
+        {
+          "level": 8,
+          "hitpoints": 4000
+        },
+        {
+          "level": 9,
+          "hitpoints": 4200
+        },
+        {
+          "level": 10,
+          "hitpoints": 4400
+        },
+        {
+          "level": 11,
+          "hitpoints": 4600
+        },
+        {
+          "level": 12,
+          "hitpoints": 4800
+        },
+        {
+          "level": 13,
+          "hitpoints": 5000
+        }
+      ]
+    },
+    {
+      "name": "Inferno Tower",
+      "levels": [
+        {
+          "level": 1,
+          "hitpoints": 1500
+        },
+        {
+          "level": 2,
+          "hitpoints": 1800
+        },
+        {
+          "level": 3,
+          "hitpoints": 2100
+        },
+        {
+          "level": 4,
+          "hitpoints": 2400
+        },
+        {
+          "level": 5,
+          "hitpoints": 2700
+        },
+        {
+          "level": 6,
+          "hitpoints": 3000
+        },
+        {
+          "level": 7,
+          "hitpoints": 3300
+        },
+        {
+          "level": 8,
+          "hitpoints": 3700
+        },
+        {
+          "level": 9,
+          "hitpoints": 4000
+        },
+        {
+          "level": 10,
+          "hitpoints": 4400
+        },
+        {
+          "level": 11,
+          "hitpoints": 4800
+        },
+        {
+          "level": 12,
+          "hitpoints": 5100
+        }
+      ]
+    },
+    {
+      "name": "Eagle Artillery",
+      "levels": [
+        {
+          "level": 1,
+          "hitpoints": 4000
+        },
+        {
+          "level": 2,
+          "hitpoints": 4400
+        },
+        {
+          "level": 3,
+          "hitpoints": 4800
+        },
+        {
+          "level": 4,
+          "hitpoints": 5200
+        },
+        {
+          "level": 5,
+          "hitpoints": 5600
+        },
+        {
+          "level": 6,
+          "hitpoints": 5900
+        },
+        {
+          "level": 7,
+          "hitpoints": 6200
+        }
+      ]
+    },
+    {
+      "name": "Scattershot",
+      "levels": [
+        {
+          "level": 1,
+          "hitpoints": 3600
+        },
+        {
+          "level": 2,
+          "hitpoints": 4200
+        },
+        {
+          "level": 3,
+          "hitpoints": 4800
+        },
+        {
+          "level": 4,
+          "hitpoints": 5100
+        },
+        {
+          "level": 5,
+          "hitpoints": 5410
+        },
+        {
+          "level": 6,
+          "hitpoints": 5600
+        },
+        {
+          "level": 7,
+          "hitpoints": 5800
+        }
+      ]
+    },
+    {
+      "name": "Monolith",
+      "levels": [
+        {
+          "level": 1,
+          "hitpoints": 4747
+        },
+        {
+          "level": 2,
+          "hitpoints": 5050
+        },
+        {
+          "level": 3,
+          "hitpoints": 5353
+        },
+        {
+          "level": 4,
+          "hitpoints": 5656
+        },
+        {
+          "level": 5,
+          "hitpoints": 5959
+        }
+      ]
+    },
+    {
+      "name": "Spell Tower",
+      "levels": [
+        {
+          "level": 1,
+          "hitpoints": 2500
+        },
+        {
+          "level": 2,
+          "hitpoints": 2800
+        },
+        {
+          "level": 3,
+          "hitpoints": 3100
+        },
+        {
+          "level": 4,
+          "hitpoints": 3200
+        }
+      ]
+    },
+    {
+      "name": "Multi-Archer Tower",
+      "levels": [
+        {
+          "level": 1,
+          "hitpoints": 5000
+        },
+        {
+          "level": 2,
+          "hitpoints": 5200
+        },
+        {
+          "level": 3,
+          "hitpoints": 5400
+        },
+        {
+          "level": 4,
+          "hitpoints": 5500
+        }
+      ]
+    },
+    {
+      "name": "Ricochet Cannon",
+      "levels": [
+        {
+          "level": 1,
+          "hitpoints": 5400
+        },
+        {
+          "level": 2,
+          "hitpoints": 5700
+        },
+        {
+          "level": 3,
+          "hitpoints": 6000
+        },
+        {
+          "level": 4,
+          "hitpoints": 6100
+        }
+      ]
+    },
+    {
+      "name": "Firespitter",
+      "levels": [
+        {
+          "level": 1,
+          "hitpoints": 4500
+        },
+        {
+          "level": 2,
+          "hitpoints": 5000
+        },
+        {
+          "level": 3,
+          "hitpoints": 5300
+        }
+      ]
+    },
+    {
+      "name": "Multi-Gear Tower",
+      "levels": [
+        {
+          "level": 1,
+          "hitpoints": 4000
+        },
+        {
+          "level": 2,
+          "hitpoints": 4200
+        },
+        {
+          "level": 3,
+          "hitpoints": 4350
+        }
+      ]
+    },
+    {
+      "name": "Clan Castle",
+      "levels": [
+        {
+          "level": 1,
+          "hitpoints": 600
+        },
+        {
+          "level": 2,
+          "hitpoints": 1200
+        },
+        {
+          "level": 3,
+          "hitpoints": 1800
+        },
+        {
+          "level": 4,
+          "hitpoints": 2600
+        },
+        {
+          "level": 5,
+          "hitpoints": 3000
+        },
+        {
+          "level": 6,
+          "hitpoints": 3400
+        },
+        {
+          "level": 7,
+          "hitpoints": 4000
+        },
+        {
+          "level": 8,
+          "hitpoints": 4400
+        },
+        {
+          "level": 9,
+          "hitpoints": 4800
+        },
+        {
+          "level": 10,
+          "hitpoints": 5200
+        },
+        {
+          "level": 11,
+          "hitpoints": 5400
+        },
+        {
+          "level": 12,
+          "hitpoints": 5600
+        },
+        {
+          "level": 13,
+          "hitpoints": 5800
+        },
+        {
+          "level": 14,
+          "hitpoints": 6000
+        }
+      ]
+    },
+    {
+      "name": "Town Hall",
+      "levels": [
+        {
+          "level": 1,
+          "hitpoints": 400
+        },
+        {
+          "level": 2,
+          "hitpoints": 800
+        },
+        {
+          "level": 3,
+          "hitpoints": 1600
+        },
+        {
+          "level": 4,
+          "hitpoints": 2000
+        },
+        {
+          "level": 5,
+          "hitpoints": 2400
+        },
+        {
+          "level": 6,
+          "hitpoints": 2800
+        },
+        {
+          "level": 7,
+          "hitpoints": 3300
+        },
+        {
+          "level": 8,
+          "hitpoints": 3900
+        },
+        {
+          "level": 9,
+          "hitpoints": 4600
+        },
+        {
+          "level": 10,
+          "hitpoints": 5500
+        },
+        {
+          "level": 11,
+          "hitpoints": 6800
+        },
+        {
+          "level": 12,
+          "hitpoints": 7500
+        },
+        {
+          "level": 13,
+          "hitpoints": 8200
+        },
+        {
+          "level": 14,
+          "hitpoints": 8900
+        },
+        {
+          "level": 15,
+          "hitpoints": 9600
+        },
+        {
+          "level": 16,
+          "hitpoints": 10000
+        },
+        {
+          "level": 17,
+          "hitpoints": 10400
+        },
+        {
+          "level": 18,
+          "hitpoints": 10800
+        }
+      ]
+    }
+  ]
+}
