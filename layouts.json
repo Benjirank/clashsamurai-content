@@ -15,5 +15,67 @@
     "capturedOn": "2026-09-18",
     "season": "2026-09",
     "addedOn": "2026-09-18"
+  },
+  {
+    "id": "th7-balanced-diamond",
+    "isFixture": false,
+    "thLevel": 7,
+    "category": "farming",
+    "title": "Balanced Diamond",
+    "description": "A balanced Town Hall 7 farming layout built to keep your loot safe. All five storages sit deep in the core, backed up by a mix of hidden Traps, Bombs, and Clan Castle defenders. It holds up well enough in Clan Wars too — attackers tend to have a rough time cracking it.",
+    "link": "https://link.clashofclans.com/en?action=OpenLayout&id=TH7%3AHV%3AAAAAFwAAAALEv-rigZdBHFwO4oVxgx3Y",
+    "previewImage": "images/layouts/th7-balanced-diamond-0d6e31d3.jpg",
+    "builder": {
+      "name": "Clash Samurai"
+    },
+    "capturedOn": "2026-09-21",
+    "season": "2026-09",
+    "tags": [
+      "balanced",
+      "diamond"
+    ],
+    "addedOn": "2026-09-21"
+  },
+  {
+    "id": "th7-de-safe",
+    "isFixture": false,
+    "thLevel": 7,
+    "category": "farming",
+    "title": "DE Safe",
+    "description": "This TH7 farm base puts extra focus on keeping the Dark Elixir storage out of reach, so it isn't the easiest target for a quick snipe. The Clan Castle sits where it should trigger early, pulling defensive troops into the fight sooner rather than later. Overall it holds its own against both ground and air attacks.",
+    "link": "https://link.clashofclans.com/en?action=OpenLayout&id=TH7%3AHV%3AAAAAFwAAAALEwAKAdHbnoNGqiLK3Xs-Q",
+    "previewImage": "images/layouts/th7-de-safe-8bb681bc.jpg",
+    "builder": {
+      "name": "Clash Samurai"
+    },
+    "capturedOn": "2026-09-21",
+    "season": "2026-09",
+    "tags": [
+      "farming",
+      "dark elixir",
+      "box"
+    ],
+    "addedOn": "2026-09-21"
+  },
+  {
+    "id": "th7-anti-air-box-farmer",
+    "isFixture": false,
+    "thLevel": 7,
+    "category": "farming",
+    "title": "Anti-Air Box Farmer",
+    "description": "A tight, awkward Town Hall 7 farming layout built around anti-air. All three Air Defenses stay well tucked away, with the Air Sweeper covering the north edge. The five Storages get a double layer of buildings in front of them, and the Clan Castle adds another line of defense — load it with defenders, Dragons work nicely. Worth a look if you want a base that's genuinely annoying to break into.",
+    "link": "https://link.clashofclans.com/en?action=OpenLayout&id=TH7%3AHV%3AAAAAFwAAAALEwAl0YLOM5bj98P474cqg",
+    "previewImage": "images/layouts/th7-anti-air-box-farmer-8f8f455f.jpg",
+    "builder": {
+      "name": "Clash Samurai"
+    },
+    "capturedOn": "2026-09-21",
+    "season": "2026-09",
+    "tags": [
+      "anti-air",
+      "box",
+      "farming"
+    ],
+    "addedOn": "2026-09-21"
   }
 ]
